@@ -11,7 +11,9 @@ HOW TO USE:
 4. Create the following symlinks
 
 ~/.cache/wal/Kvantum -> ~/.config/Kvantum/Pywal
+
 ~/.cache/wal/color-scheme.colors -> ~/.local/share/color-schemes/Pywal.colors
+
 ~/.cache/wal/konsole.colorscheme -> ~/.local/share/konsole/Pywal.colorscheme
 
 5. Go to System Settings -> Colors & Themes
