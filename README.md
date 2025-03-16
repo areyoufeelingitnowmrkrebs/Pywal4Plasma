@@ -28,6 +28,7 @@ You will need to run the wal command above every time you change your wallpaper,
 Given that the Kvantum theme is made using Utterly Sweet as a base, I find that it looks best paired with the following:
 
 Plasma Style: Utterly-Round (follows color scheme)
+
 Window Decorations: Utterly-Round-Dark (also follows color scheme)
 
 Feel free to experiment though!
