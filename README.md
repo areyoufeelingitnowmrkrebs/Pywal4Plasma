@@ -23,6 +23,8 @@ HOW TO USE:
 9. Open Konsole and go to Edit Profile -> Appearance
 10. Select Pywal and save
 
+You will need to run the wal command above every time you change your wallpaper, but none of the other steps need to be redone.
+
 Given that the Kvantum theme is made using Utterly Sweet as a base, I find that it looks best paired with the following:
 
 Plasma Style: Utterly-Round (follows color scheme)
