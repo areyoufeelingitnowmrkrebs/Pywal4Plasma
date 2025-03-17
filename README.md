@@ -10,11 +10,11 @@ HOW TO USE:
 3. Run pywal: 'wal --cols16 -n -i /path/to/wallpaper'
 4. Create the following symlinks
 
-~/.cache/wal/Kvantum -> ~/.config/Kvantum/Pywal
+~/.cache/wal/Plasma/Kvantum -> ~/.config/Kvantum/Pywal
 
-~/.cache/wal/color-scheme.colors -> ~/.local/share/color-schemes/Pywal.colors
+~/.cache/wal/Plasma/color-scheme.colors -> ~/.local/share/color-schemes/Pywal.colors
 
-~/.cache/wal/konsole.colorscheme -> ~/.local/share/konsole/Pywal.colorscheme
+~/.cache/wal/Plasma/konsole.colorscheme -> ~/.local/share/konsole/Pywal.colorscheme
 
 5. Go to System Settings -> Colors & Themes
 6. Set Colors to Pywal
