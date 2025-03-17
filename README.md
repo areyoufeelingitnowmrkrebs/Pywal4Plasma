@@ -1,13 +1,14 @@
+# Pywal4Plasma
+
 ![Screenshot_20250317_065009](https://github.com/user-attachments/assets/8880373c-a10a-42f2-8ad9-06acd746b238)
 ![Screenshot_20250317_064645](https://github.com/user-attachments/assets/7dc328c4-4f35-4abb-9fdb-e23bfa9077b6)
 ![Screenshot_20250317_064314](https://github.com/user-attachments/assets/2a755821-1655-476f-b6ef-507cbe3ba244)
 
-# Pywal4Plasma
-Pywal16 templates for KDE Plasma's color scheme, Kvantum, and Konsole using Utterly Sweet as a base
+# Dependencies
+pywal16 3.8+ (AUR, GitHub)
+Kvantum Theme Manager
 
-DEPENDS: pywal16 3.8+ (AUR, GitHub), Kvantum Theme Manager
-
-HOW TO USE:
+# Instructions
 
 1. Move the templates folder to ~/.config/wal/templates and rename it "Plasma"
 2. Set your wallpaper using KDE Plasma's settings, not pywal
